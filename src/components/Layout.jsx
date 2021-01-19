@@ -7,6 +7,7 @@ function Layout(props) {
     // Preluam props-urile de interes.
     const {user, signOut} = props;
 
+    console.log("Props ul din Layout:",props);
     return(
         <div className="layout">
             {/* Pasam props-urile mai departa catre header. */}
