@@ -1,4 +1,4 @@
-## JavaScript Advanced - Curs 7
+## Web application in React(E commerce site)
 
 Pentru a rula aceasta etapa (in linie de comanda):
 
